@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m Andrew Tettamanti, an Electrical Engineering major concentrating in Signal Procesing and Contorls at the Universiry of Wahington. 
+- 👋 Hi, I’m Andrew Tettamanti, an Electrical Engineering major concentrating in Signal Procesing and Controls at the University of Washington. 
 - 👀 I’m interested in Software Defined Radios and Wifi Sensing.
-- 🌱 I’m currently part of the Sensor Systems Lab, my project involves developing deep learning algrotithms using NSASA's High Rate Delay Tolerant Network (HDTN).
+- 🌱 I’m currently part of the Sensor Systems Lab, my project involves developing deep learning algorithms using NSASA's High Rate Delay Tolerant Network (HDTN).
 - 📫 How to reach me andrewtettamanti@gmail.com
 
 <!---
